@@ -1,0 +1,58 @@
+Ancient City Sculk Tracker - Custom License
+Version 1.0
+
+Copyright (c) 2026 aerithsmods. All rights reserved.
+
+1. Personal use
+Permission is granted to download, install, and use Ancient City Sculk Tracker
+(the "Mod") for personal, non-redistributive use.
+
+2. Content creation
+You may show or use the Mod in videos, livestreams, screenshots, articles, guides,
+social-media posts, and other content, including monetized content, provided that:
+- the Mod is credited as "Ancient City Sculk Tracker" by aerithsmods; and
+- where reasonably possible, a link is provided to an official Modrinth or
+  CurseForge project page for the Mod.
+
+This permission to create content does not grant permission to redistribute the Mod.
+
+3. Modpacks
+You may include the Mod in a modpack only when the Mod file is obtained from, or
+referenced through, an official distribution controlled by aerithsmods, including
+the official Modrinth or CurseForge project. Platform manifest-based inclusion is
+permitted where the platform retrieves the Mod from its official project.
+
+You may not independently re-upload, mirror, bundle, or host the Mod file on another
+website, file host, launcher, repository, or distribution service without prior
+written permission from aerithsmods.
+
+4. Redistribution and republication
+You may not redistribute, re-upload, mirror, republish, sell, sublicense, or offer
+the Mod file as your own product or download.
+
+You may not publish modified versions, forks, ports, derivative releases, or
+decompiled/recompiled versions of the Mod without prior written permission from
+aerithsmods.
+
+5. Private modification
+You may modify the Mod privately for your own personal use, provided that the
+modified version is not distributed or published.
+
+6. Attribution and ownership
+No permission granted by this license transfers ownership of the Mod, its original
+code, branding, or other original materials. You may not claim authorship of the
+Mod or imply that your project is an official release by aerithsmods.
+
+7. Exceptions required by law
+Nothing in this license limits rights that cannot lawfully be restricted under
+applicable law.
+
+8. No warranty
+THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW,
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM THE USE OF OR INABILITY TO USE THE MOD.
+
+Permissions not expressly granted by this license are reserved by aerithsmods.
+For additional permissions, contact aerithsmods through an official project page.
